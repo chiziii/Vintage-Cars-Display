@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Vintage-Cars-Display/static/css/main.049f000e.chunk.css",
+    "main.css": "/Vintage-Cars-Display/static/css/main.f22aaba1.chunk.css",
     "main.js": "/Vintage-Cars-Display/static/js/main.940e6836.chunk.js",
     "main.js.map": "/Vintage-Cars-Display/static/js/main.940e6836.chunk.js.map",
     "runtime-main.js": "/Vintage-Cars-Display/static/js/runtime-main.0399b82f.js",
@@ -9,10 +9,10 @@
     "static/js/2.7be41377.chunk.js": "/Vintage-Cars-Display/static/js/2.7be41377.chunk.js",
     "static/js/2.7be41377.chunk.js.map": "/Vintage-Cars-Display/static/js/2.7be41377.chunk.js.map",
     "index.html": "/Vintage-Cars-Display/index.html",
-    "precache-manifest.3ab848cca2eb61505853d6b674bd00ec.js": "/Vintage-Cars-Display/precache-manifest.3ab848cca2eb61505853d6b674bd00ec.js",
+    "precache-manifest.6d4ef046f90385c12b5e2ee73bbbbe0b.js": "/Vintage-Cars-Display/precache-manifest.6d4ef046f90385c12b5e2ee73bbbbe0b.js",
     "service-worker.js": "/Vintage-Cars-Display/service-worker.js",
     "static/css/2.daea5752.chunk.css.map": "/Vintage-Cars-Display/static/css/2.daea5752.chunk.css.map",
-    "static/css/main.049f000e.chunk.css.map": "/Vintage-Cars-Display/static/css/main.049f000e.chunk.css.map",
+    "static/css/main.f22aaba1.chunk.css.map": "/Vintage-Cars-Display/static/css/main.f22aaba1.chunk.css.map",
     "static/js/2.7be41377.chunk.js.LICENSE.txt": "/Vintage-Cars-Display/static/js/2.7be41377.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Vintage-Cars-Display/static/media/Engravers-Gothic-BT-Font.be89a5be.ttf",
     "static/media/Orange.jpg": "/Vintage-Cars-Display/static/media/Orange.302a581b.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.0399b82f.js",
     "static/css/2.daea5752.chunk.css",
     "static/js/2.7be41377.chunk.js",
-    "static/css/main.049f000e.chunk.css",
+    "static/css/main.f22aaba1.chunk.css",
     "static/js/main.940e6836.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Vintage-Cars-Display/precache-manifest.3ab848cca2eb61505853d6b674bd00ec.js"
+  "/Vintage-Cars-Display/precache-manifest.6d4ef046f90385c12b5e2ee73bbbbe0b.js"
 );
 
 self.addEventListener('message', (event) => {
