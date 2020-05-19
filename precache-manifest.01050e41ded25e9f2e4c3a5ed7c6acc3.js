@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3ff2339dff5760131e65fce17ff8756",
+    "revision": "300a2865dae28f8664778661c1349254",
     "url": "/Vintage-Cars-Display/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vintage-Cars-Display/static/css/2.daea5752.chunk.css"
   },
   {
-    "revision": "3e539f7512636b4d8be1",
-    "url": "/Vintage-Cars-Display/static/css/main.f22aaba1.chunk.css"
+    "revision": "7abf86f2134b1b0fc5da",
+    "url": "/Vintage-Cars-Display/static/css/main.285c00ed.chunk.css"
   },
   {
     "revision": "96de981c7d237ae3bcd9",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vintage-Cars-Display/static/js/2.7be41377.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e539f7512636b4d8be1",
+    "revision": "7abf86f2134b1b0fc5da",
     "url": "/Vintage-Cars-Display/static/js/main.940e6836.chunk.js"
   },
   {
